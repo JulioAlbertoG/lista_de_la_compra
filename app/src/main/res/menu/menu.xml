@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/agregar"
+        android:title="Agregar"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/insp"
+        android:title="inspiración"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/cerrar"
+        android:title="Cerrar Sesión"
+        app:showAsAction="ifRoom" />
+</menu>
